@@ -1,0 +1,57 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+.VENV/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+*.swp             # vi/vim temporary files
+
+# IDE/editor configuration files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.ncb
+
+# Python environment files
+*.env
+*.venv
+.env
+.venv
+
+# Compiled files or outputs
+*.out
+*.class
+
+# Dependency and package directories
+node_modules/
+dist/
+build/
+*.egg-info/
+
+# Test results
+.coverage
+*.spec
+.jest/
+
+# Backup files
+*~
+*.bak
+*.old
+
+# Temporary development files
+debug.log
