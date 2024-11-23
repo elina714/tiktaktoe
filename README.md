@@ -13,3 +13,4 @@ A fun, interactive Tic Tac Toe game built using Python's tkinter library. The ga
 * Reset and replay functionality.
 
 ## Demo
+![Alt text](screen.png)
